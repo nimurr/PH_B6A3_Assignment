@@ -91,7 +91,7 @@ All queries have been tested using **PostgreSQL**.
 
 ##  Files Included
 - `README.md` → Project documentation
-- `queries.sql` → All SQL queries with solutions
+- `Assignment_3.sql` → All SQL queries with solutions
 - ERD link (Lucidchart – submitted separately)
 
 ---
