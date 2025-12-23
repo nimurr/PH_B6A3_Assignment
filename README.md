@@ -97,9 +97,8 @@ All queries have been tested using **PostgreSQL**.
 ---
 
 ##  Technologies Used
-- PostgreSQL
-- SQL
-- Lucidchart (for ERD)
+- PostgreSQL 
+- Drawsql (for ERD)
 
 ---
 
